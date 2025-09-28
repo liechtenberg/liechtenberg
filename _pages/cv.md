@@ -10,38 +10,38 @@ redirect_from:
 {% include base_path %}
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+======.D
+* GO! Campus Kompas, 2023
+* CVO Groeipunt 'Start to Program', Present
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* [MC-Node](https://mc-node.net)
+  * Hosting company
+  * Duties includes: respond to customers sales and technical questions
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* [KoopJeServer B.V](https://koopjeserver.nl)
+  * Hosting company
+  * Duties included: respond to customers sale questions
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* [Emerald Chat](https://emeraldchat.com/)
+  * Social media company
+  * Duties included: moderate UGC content on their site
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Customer Support & Communication
+  * Technical troubleshooting and problem resolution
+  * Sales consultation and customer onboarding
+  * Multi-language support (Dutch, English)
+* Content Moderation
+  * User-generated content review and moderation
+  * Community management and policy enforcement
+* Technical Skills
+  * Web hosting and server management
+  * Social media platform administration
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
@@ -61,4 +61,13 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
+
+Languages
+======
+* English
+  * Fluent (Near-native level)
+* Dutch
+  * Native speaker
+* Spanish
+  * Beginner level
