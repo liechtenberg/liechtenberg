@@ -12,7 +12,7 @@ redirect_from:
 ApexCloud was a small side-gig where I offered free Discord bot hosting services to people who needed it. It was used by around 12,000 users at its peak.
 
 <details>
-  <summary>Technical Implementation Details</summary>
+  <summary>Technical information</summary>
   
   <h2>Technologies Used</h2>
 
