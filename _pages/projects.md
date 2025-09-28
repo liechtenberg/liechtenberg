@@ -41,4 +41,8 @@ ApexCloud was a small side-gig where I offered free Discord bot hosting services
     <li><strong>CloudFlare</strong>: I used CloudFlare for proxying and caching to improve performance and provide additional security layers for the hosting service.</li>
   </ul>
 
-</details>
+</details>^
+
+# Hostaris
+
+Hostaris was a VPS hosting company where I specialized in managing financial disputes and chargeback resolution. I handled complex billing disputes and worked closely with payment processors to minimize financial losses until the company's closure.
