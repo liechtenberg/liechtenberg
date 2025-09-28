@@ -41,7 +41,9 @@ ApexCloud was a small side-gig where I offered free Discord bot hosting services
     <li><strong>CloudFlare</strong>: I used CloudFlare for proxying and caching to improve performance and provide additional security layers for the hosting service.</li>
   </ul>
 
-</details>^
+</details>
+
+<hr>
 
 # Hostaris
 
