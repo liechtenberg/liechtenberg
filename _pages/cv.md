@@ -10,11 +10,11 @@ redirect_from:
 {% include base_path %}
 
 Education
-======.D
+======
 * GO! Campus Kompas, 2023
 * CVO Groeipunt 'Start to Program', Present
 
-Work experience
+Experience
 ======
 * [MC-Node](https://mc-node.net)
   * Hosting company
